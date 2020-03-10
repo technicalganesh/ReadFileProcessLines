@@ -1,0 +1,11 @@
+/Users/ganesh/Downloads/Ganesh/DevExperiments/DotnetCore/AyncDemo/Demo1/bin/Debug/netcoreapp3.1/Demo1
+/Users/ganesh/Downloads/Ganesh/DevExperiments/DotnetCore/AyncDemo/Demo1/bin/Debug/netcoreapp3.1/Demo1.deps.json
+/Users/ganesh/Downloads/Ganesh/DevExperiments/DotnetCore/AyncDemo/Demo1/bin/Debug/netcoreapp3.1/Demo1.runtimeconfig.json
+/Users/ganesh/Downloads/Ganesh/DevExperiments/DotnetCore/AyncDemo/Demo1/bin/Debug/netcoreapp3.1/Demo1.runtimeconfig.dev.json
+/Users/ganesh/Downloads/Ganesh/DevExperiments/DotnetCore/AyncDemo/Demo1/bin/Debug/netcoreapp3.1/Demo1.dll
+/Users/ganesh/Downloads/Ganesh/DevExperiments/DotnetCore/AyncDemo/Demo1/bin/Debug/netcoreapp3.1/Demo1.pdb
+/Users/ganesh/Downloads/Ganesh/DevExperiments/DotnetCore/AyncDemo/Demo1/obj/Debug/netcoreapp3.1/Demo1.csprojAssemblyReference.cache
+/Users/ganesh/Downloads/Ganesh/DevExperiments/DotnetCore/AyncDemo/Demo1/obj/Debug/netcoreapp3.1/Demo1.AssemblyInfoInputs.cache
+/Users/ganesh/Downloads/Ganesh/DevExperiments/DotnetCore/AyncDemo/Demo1/obj/Debug/netcoreapp3.1/Demo1.AssemblyInfo.cs
+/Users/ganesh/Downloads/Ganesh/DevExperiments/DotnetCore/AyncDemo/Demo1/obj/Debug/netcoreapp3.1/Demo1.dll
+/Users/ganesh/Downloads/Ganesh/DevExperiments/DotnetCore/AyncDemo/Demo1/obj/Debug/netcoreapp3.1/Demo1.pdb
